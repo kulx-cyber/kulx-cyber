@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kulx-cyber
 - 👀 I’m interested in cyberseurity, networrking and astro-physics
-- 🌱 I’m currently learning pythin and Rust
+- 🌱 I’m currently learning Rust.
 
 
 <!---
